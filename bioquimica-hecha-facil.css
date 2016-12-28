@@ -1,6 +1,5 @@
 .blog-title {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  color: black;
   font-size: 40px;
   font-weight: normal;
   text-align: center;
@@ -12,7 +11,6 @@
   font-family: "Fredericka the Great", cursive;
 }
 .blog-description {
-  color: black;
   font-family: "Ranga", cursive;
   font-size: 30px;
   line-height: 30px;
