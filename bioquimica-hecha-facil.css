@@ -22,6 +22,8 @@
 header {
   padding: 0 10px;
 }
-.entry-title {
+h3.post-title {
   font-family: "Fredericka the Great", cursive;
+  font-size: 30px;
+  margin: 20px 0 0;
 }
